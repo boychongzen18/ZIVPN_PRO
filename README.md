@@ -5,7 +5,7 @@
 #  APK ZIVPN_PRO & Speedtest
 ![be](https://raw.githubusercontent.com/boychongzen18/ZIVPN_PRO/refs/heads/main/apk.jpeg)
 
-#  APK CMFA v2.11.22-zivpn-stable-alpha.apk
+#  APK CMFA v2.11.22-zivpn-stable-alpha
 ![be](https://raw.githubusercontent.com/boychongzen18/ZIVPN_PRO/refs/heads/main/cmfa.jpeg)
 
 
